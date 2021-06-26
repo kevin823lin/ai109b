@@ -1,9 +1,5 @@
 # 習題 1 : 請用爬山演算法或遺傳演算法破解維吉尼雅密碼
 
-## 參考資料
-
-程式修改自 <https://gitlab.com/ccc109/ai/-/tree/master/02-optimize/01-hillclimbing/04-framework>
-
 ## 執行結果
 
 :x: 第一次算出 key = [4, 2, -3]
@@ -50,3 +46,7 @@ start:  energy([1, 1, 1])=2.350000
 69 : energy([0, 2, 4])=11.650000
 solution:  energy([0, 2, 4])=11.650000
 ```
+
+## 參考資料
+
+程式修改自 <https://gitlab.com/ccc109/ai/-/tree/master/02-optimize/01-hillclimbing/04-framework>

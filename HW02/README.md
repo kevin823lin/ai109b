@@ -101,4 +101,5 @@ PS D:\檔案\課程\1092\人工智慧\ai109b\HW02> python .\queen.py
 ```
 
 ## 參考資料
+
 * [老師的解答](https://gitlab.com/ccc109/ai/-/blob/master/_homework/02-queen/queen.py)

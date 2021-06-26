@@ -49,6 +49,8 @@
 
   * 執行 `hillClimbingNumber.py`
 
+    > 當 x = 2 時，![equation](https://latex.codecogs.com/svg.latex?\left&space;|&space;x^2-4&space;\right&space;|) 有最小值為 0
+
     ```text
     PS D:\檔案\課程\1092\人工智慧\ai\02-optimize\01-hillclimbing\04-framework> python .\hillClimbingNumber.py
     start:  energy(0.000)=4.000
@@ -67,8 +69,6 @@
     419 : energy(2.000)=0.000
     solution:  energy(2.000)=0.000
     ```
-
-  * 當 x = 2 時，![equation](https://latex.codecogs.com/svg.latex?\left&space;|&space;x^2-4&space;\right&space;|) 有最小值為 0
 
   * 解答框架 `solutionNumber.py`
 
@@ -96,6 +96,8 @@
 
   * 執行 `hillClimbingArray.py`
 
+    > 當 ![equation](https://latex.codecogs.com/svg.latex?\\begin{pmatrix}&space;x=2\\\\&space;y=5\\\\&space;z=2.5&space;\\end{pmatrix}) 時，![equation](https://latex.codecogs.com/svg.latex?x^2&plus;3y^2&plus;z^2-4x-3y-5z&plus;8) 有最小值為 -3
+
     ```text
     PS D:\檔案\課程\1092\人工智慧\ai\02-optimize\01-hillclimbing\04-framework> python .\hillClimbingArray.py
     start:  energy([1, 1, 1])=1.000000
@@ -114,8 +116,6 @@
     919 : energy([2.000000000000001, 0.49999999999999956, 2.4999999999999902])=-3.000000
     solution:  energy([2.000000000000001, 0.49999999999999956, 2.4999999999999902])=-3.000000
     ```
-
-  * 當 ![equation](https://latex.codecogs.com/svg.latex?\\begin{pmatrix}&space;x=2\\\\&space;y=5\\\\&space;z=2.5&space;\\end{pmatrix}) 時，![equation](https://latex.codecogs.com/svg.latex?x^2&plus;3y^2&plus;z^2-4x-3y-5z&plus;8) 有最小值為 -3
 
   * 解答框架 `solutionArray.py`
 
@@ -145,6 +145,8 @@
 
   * 執行 `hillClimbingEquation.py`
 
+    > 當 ![equation](https://latex.codecogs.com/svg.latex?\\begin{pmatrix}&space;x=-5\\\\&space;y=3\\\\&space;z=2&space;\\end{pmatrix}) 時，![equation](https://latex.codecogs.com/svg.latex?\\left\\{\\begin{matrix}&space;4a&plus;3b&plus;6c=1&space;\\\\&space;1a&plus;1b&plus;2c=2&space;\\\\&space;2a&plus;1b&plus;3c=-1&space;\\end{matrix}\\right.) 有最小值為 0
+
     ```text
     PS D:\檔案\課程\1092\人工智慧\ai\02-optimize\01-hillclimbing\04-framework> python .\hillClimbingEquation.py
     .
@@ -157,8 +159,6 @@
     7993 : energy([[-4.99997407  3.00055835  1.99966655]])=0.000456
     solution:  energy([[-4.99997407  3.00055835  1.99966655]])=0.000456
     ```
-
-  * 當 ![equation](https://latex.codecogs.com/svg.latex?\\begin{pmatrix}&space;x=-5\\\\&space;y=3\\\\&space;z=2&space;\\end{pmatrix}) 時，![equation](https://latex.codecogs.com/svg.latex?\\left\\{\\begin{matrix}&space;4a&plus;3b&plus;6c=1&space;\\\\&space;1a&plus;1b&plus;2c=2&space;\\\\&space;2a&plus;1b&plus;3c=-1&space;\\end{matrix}\\right.) 有最小值為 0
 
   * 解答框架 `solutionEquation.py`
 
@@ -334,7 +334,7 @@
 * 模擬退火法
 
   * 簡介
-  
+
     避免因為局部最低而放棄全域最低
 
   * 虛擬碼

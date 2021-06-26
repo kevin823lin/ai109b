@@ -108,19 +108,19 @@
 
 圖形搜尋的方法大致可以分為「深度優先搜尋 (Depth-First Search, DFS)、廣度優先搜尋 (Breath-First Search, BFS)、最佳優先搜尋 (Best-First Search, BestFS) 等三類。
 
-![圖、圖形 Graph 的範例](..\img\graphSearch.jpg)
+![圖、圖形 Graph 的範例](../img/graphSearch.jpg)
 
 ### 深度優先搜尋
 
 這個演算法會儘可能深的搜尋樹的分支。當節點v的所在邊都己被探尋過，搜尋將回溯到發現節點v的那條邊的起始節點。這一過程一直進行到已發現從源節點可達的所有節點為止。如果還存在未被發現的節點，則選擇其中一個作為源節點並重複以上過程，整個行程反覆進行直到所有節點都被存取為止。
 
-![圖、圖形 Graph 的範例](..\img\dfs.jpg)
+![圖、圖形 Graph 的範例](../img/dfs.jpg)
 
 ### 廣度優先搜尋
 
 BFS是從根節點開始，沿著樹的寬度遍歷樹的節點。如果所有節點均被存取，則演算法中止。廣度優先搜尋的實現一般採用open-closed表。
 
-![圖、圖形 Graph 的範例](..\img\bfs.jpg)
+![圖、圖形 Graph 的範例](../img/bfs.jpg)
 
 ### 實作
 

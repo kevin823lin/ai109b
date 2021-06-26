@@ -94,4 +94,8 @@ k + 4 = n
 
 ### 作業
 
-[HW01](..\HW01\)
+[HW01](..\HW01\README.md)
+
+## 參考資料
+
+<https://programmermedia.org/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/_doc/%E9%81%BA%E5%82%B3%E6%BC%94%E7%AE%97%E6%B3%95.md>

@@ -352,3 +352,5 @@
 ## 參考資料
 
 * <https://stackoverflow.com/questions/35498525/latex-rendering-in-readme-md-on-github>
+
+* <http://programmermedia.org/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/02-optimize/01-hillclimbing/04-framework/%E5%AF%A6%E4%BD%9C%EF%BC%9A%E9%80%9A%E7%94%A8%E7%9A%84%E6%A8%A1%E6%93%AC%E9%80%80%E7%81%AB%E6%B3%95%E6%9E%B6%E6%A7%8B.md>

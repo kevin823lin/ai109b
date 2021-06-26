@@ -53,10 +53,6 @@
 
 ![equation](https://latex.codecogs.com/svg.latex?\nabla&space;\cdot&space;\mathbf{D}&space;=&space;\rho)、
 
-
-
-
-
 (G) 高斯定律
 
 ![equation](https://latex.codecogs.com/svg.latex?\nabla&space;\cdot&space;\mathbf{D}&space;=&space;\rho)、

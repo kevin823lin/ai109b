@@ -71,3 +71,5 @@ One-hot 在數位電路中被用來表示一種特殊的位元組合，該位元
 * <https://zh-yue.m.wikipedia.org/wiki/%E9%81%9E%E8%BF%B4%E7%A5%9E%E7%B6%93%E7%B6%B2%E7%B5%A1>
 
 * <https://zhuanlan.zhihu.com/p/32085405>
+
+* <https://zh.wikipedia.org/wiki/One-hot>

@@ -10,7 +10,7 @@
 
   * subplot(x,y,z) row_x 乘 column_y 張圖中的第 z 張。
 
-* numpy ── 數學矩陣運算
+* NumPy ── 數學矩陣運算
 
   * import numpy as np
 
@@ -30,7 +30,7 @@
 
   * np.random.randint(0,10,6) 0~10 取 6 個。
 
-* scipy ── 擴充numpy
+* SymPy ── 擴充 numpy
 
   * from scipy import linalg 計算矩陣特徵向量
 
@@ -57,3 +57,9 @@
 ## 參考資料
 
 * <https://zh.wikipedia.org/wiki/%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2>
+
+* <https://zh.wikipedia.org/zh-tw/Matplotlib>
+
+* <https://zh.wikipedia.org/wiki/NumPy>
+
+* <https://zh.wikipedia.org/zh-tw/SymPy>
